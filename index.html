@@ -1,4 +1,39 @@
+#---
+#layout: home
+#title: Home
+#---
 ---
-layout: home
-title: Home
+layout: splash
+title: "Anu's Writings"
+classes: wide
+excerpt: "Welcome to Millennial!"
+header:
+  overlay_image: /assets/images/home.jpg
+  overlay_filter: 0.3
+  caption: "Photography • Research • Travel"
+feature_row:
+  - image_path: /assets/images/research.jpg
+    alt: "Research"
+    title: "Research"
+    excerpt: "Academic work and publications"
+    url: /research/
+    btn_label: "Explore"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/visual.jpg
+    alt: "Visual Stories"
+    title: "Visual Stories"
+    excerpt: "Photography and visual narratives"
+    url: /visual-stories/
+    btn_label: "View"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/blog.jpg
+    alt: "Blogs"
+    title: "Blogs"
+    excerpt: "Thoughts, travel, and reflections"
+    url: /blogs/
+    btn_label: "Read"
+    btn_class: "btn--primary"
 ---
+{% include feature_row %}
