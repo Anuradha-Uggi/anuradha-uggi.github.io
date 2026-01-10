@@ -11,8 +11,8 @@ menu:
 - {name: 'Research', url: 'research'}
 - {name: 'Visual Stories',  url: 'dreams'}
 #- {name: 'Interesting Facts',  url: 'facts'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
+- {name: 'Blogs',      url: 'blogs'}
+- {name: 'Travelling',       url: 'travelling'}
 #- {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
