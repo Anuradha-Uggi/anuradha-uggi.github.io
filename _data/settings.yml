@@ -17,9 +17,14 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'LinkedIn', link:    'linkedin.com/in/anuradha-uggi-623563137'}
-- {icon: 'GitHub', link:   'https://github.com/Anuradha-Uggi'}
-- {icon: 'LFOVIA Lab', link: 'https://people.iith.ac.in/lfovia/index.html'}
+- icon: linkedin
+  link: https://linkedin.com/in/anuradha-uggi-623563137
+
+- icon: github
+  link: https://github.com/Anuradha-Uggi
+
+- icon: globe
+  link: https://people.iith.ac.in/lfovia/index.html
 
 #- {icon: 'twitter', link:    'https://twitter.com/paululele'}
 #- {icon: 'envelope', link:   'mailto:hello@paulle.ca'}
