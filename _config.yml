@@ -23,28 +23,28 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "anu-git.png"
+  name             : "Anuradha Uggi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "PhD Scholar"
+  location         : "https://maps.app.goo.gl/R1HiNT5Z9685aT2AA"
+  #employer         : "IIT Hyderabad"
+  #uri              : # URL
+  email            : "ee21resch01008@iith.ac.in" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  #academia         : # URL
+  #arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=BAoLBSEAAAAJ&hl=en"
+  #inspire-hep      : # URL
+  #impactstory      : # URL
+  orcid            : "https://orcid.org/0009-0004-1404-4239"
+  semantic         : "https://www.semanticscholar.org/author/Anuradha-Uggi/2312050097" # URL
+  #ssrn             : # URL
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate     : # URL
+  #scopus           : # URL
+  #zotero           : # URL
 
 
   # Repositories and software development
