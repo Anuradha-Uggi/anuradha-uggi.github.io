@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "koala.jpg" #"profile.png"
+  avatar           : "anu.jpeg" #"koala.jpg" #"profile.png"
   name             : "Anuradha Uggi"
   pronouns         : # example: "she/her"  
   bio              : "PhD Scholar"
