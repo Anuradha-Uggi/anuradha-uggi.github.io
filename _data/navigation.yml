@@ -15,10 +15,10 @@ main:
   #  url: /About/
 
   - title: "Research" #"Talks" # Can write publications and projects
-    url: /talks/    
+    url: /research/    
 
   - title: "Experience" #"Teaching" # Can write industry and academic experience 
-    url: /teaching/    
+    url: /experience/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
@@ -27,7 +27,7 @@ main:
     url: /cv/
 
   - title: "Blogs" # Can write the latest technical papers visually with a lot of images and connecting very much to human visual system or biological neural networks 
-    url: /markdown/
+    url: /blogs/
     
   - title: "Anu’s Writings" # Novels, Poetry, Fiction
     url: /literary/  
