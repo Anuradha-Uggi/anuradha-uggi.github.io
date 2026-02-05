@@ -10,25 +10,25 @@
 main:
   #- title: "Publications"
   #  url: /publications/
-  - title: "About"
+  - title: "About" # Just include intro, latest updates, plans, current activity  
     url: /About/
 
-  - title: "Research" #"Talks"
+  - title: "Research" #"Talks" # Can write publications and projects
     url: /talks/    
 
-  - title: "Experience" #"Teaching"
+  - title: "Experience" #"Teaching" # Can write industry and academic experience 
     url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "Tech. Blogs"
-    url: /year-archive/
+  - title: "Blogs" # Can write the latest technical papers visually with a lot of images and connecting very much to human visual system or biological neural networks 
+    url: /markdown/
     
-  - title: "Visual Stories"
-    url: /year-archive/  
+  #- title: "Visual Stories"
+  #  url: /year-archive/  
     
-  - title: "CV"
+  - title: "CV" # Just include your CV here
     url: /cv/
     
   # - title: "CV"
