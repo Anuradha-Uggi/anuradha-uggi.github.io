@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, this is Anuradha, a PhD scholar in EE department at IIT Hyderabad. Prior to joinig PhD, I did my BTech in ECE dept. from RGUKT, IIIT, Basar. My current research focuses on developing efficient and accurate representation learning algorithms for Visual Place Recognition or Visual Geolocalization, which is critical in robotics. In a nutshell, the default navigation aid that all of us and most autonomous navigation systems rely on is GPS/satellite signals. However, due to various practicaly reasons, these signals may go down or unreliable. That is when, the vision-based navigation techniques that this research develops take up the job of GPS. It's easier said than done :). 
 
-Anyhow, my broader interests include image processing, computer vision, machine learning, deep learning. 
+Anyhow, my broader interests include image processing, computer vision, machine learning, and deep learning. 
 
 <!--
 #Specifically, I find representation learning, representation similarity analysis, image/video quality assessment, etc,. to be interesting. 
