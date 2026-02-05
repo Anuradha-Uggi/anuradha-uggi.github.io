@@ -1,8 +1,7 @@
 
 ---
 permalink: /
-
-title: ""
+title: "About mw"
 author_profile: true
 redirect_from: 
   - /about/
