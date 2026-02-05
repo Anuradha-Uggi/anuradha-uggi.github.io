@@ -1,3 +1,8 @@
+
+Hi, this is Anuradha. I am currently a PhD scholar in EE department at IIT Hyderabad. Before joining here, I did my BTech in ECE dept. from RGUKT, IIIT, Basar. I have a short time industry experinece of working as an Intern TCS R&I, Bengaluru. I worked on an interesting problem of multimodal biomedical image registration for the image fusion task. My current research is about developing efficient and accurate representation learning algorithms for Visual Place Recognition or Visual Geolocalization, which is critical in robotics. My research interests include representation learning, representation similarity analysis, image/video quality assessment, etc. Broadly, I am excited addressing problems in computer vision, deep learning, and signal processing. 
+
+
+<!--
 ---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
@@ -51,6 +56,6 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a Markdown file for a talk
 ![Editing a Markdown file for a talk](/images/editing-talk.png)
 
-For more info
+For more info -->
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
