@@ -1,17 +1,19 @@
 ---
 layout: archive
 title: "CV"
-permalink: "https://drive.google.com/file/d/1Xjc7jJg6YVTaUeJnfCN0ob6zukyyu19h/view?usp=sharing"
+permalink: /cv/
 author_profile: true
+redirect_to: https://drive.google.com/file/d/1Xjc7jJg6YVTaUeJnfCN0ob6zukyyu19h/view?usp=sharing
 redirect_from:
-  - /resume
+  - /resume/
 ---
+
 
 <!--
 ---
 layout: archive
 title: "CV"
-permalink: /cv/ #https://drive.google.com/file/d/1Xjc7jJg6YVTaUeJnfCN0ob6zukyyu19h/view?usp=sharing
+permalink: /cv/ #c
 author_profile: true
 redirect_from:
   - /resume
