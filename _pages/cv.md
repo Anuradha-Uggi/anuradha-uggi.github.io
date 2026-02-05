@@ -1,7 +1,17 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: "https://drive.google.com/file/d/1Xjc7jJg6YVTaUeJnfCN0ob6zukyyu19h/view?usp=sharing"
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+<!--
+---
+layout: archive
+title: "CV"
+permalink: /cv/ #https://drive.google.com/file/d/1Xjc7jJg6YVTaUeJnfCN0ob6zukyyu19h/view?usp=sharing
 author_profile: true
 redirect_from:
   - /resume
@@ -61,4 +71,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
