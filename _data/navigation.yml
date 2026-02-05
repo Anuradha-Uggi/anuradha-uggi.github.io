@@ -26,8 +26,8 @@ main:
   - title: "Blogs" # Can write the latest technical papers visually with a lot of images and connecting very much to human visual system or biological neural networks 
     url: /markdown/
     
-  - title: "Fiction & Poetry"
-    url: /poems/  
+  - title: "Anu’s Writings" # Novels, Poetry, Fiction
+    url: /literary/  
     
   - title: "CV" # Just include your CV here
     url: /cv/
