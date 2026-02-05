@@ -10,8 +10,9 @@
 main:
   #- title: "Publications"
   #  url: /publications/
-  - title: "About" # Just include intro, latest updates, plans, current activity  
-    url: /About/
+  
+  #- title: "About" # Just include intro, latest updates, plans, current activity  
+  #  url: /About/
 
   - title: "Research" #"Talks" # Can write publications and projects
     url: /talks/    
