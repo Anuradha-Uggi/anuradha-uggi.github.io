@@ -11,6 +11,8 @@ Hi, this is Anuradha, a PhD scholar in EE department at IIT Hyderabad. Prior to 
 
 My broader interests include image processing, computer vision, machine learning, and deep learning 
 
+I find working at the intersection of neuroscience and neural networks, and dissecting and reasoning about DL models, intriguing
+
 Link to my [CV](https://drive.google.com/file/d/1Xjc7jJg6YVTaUeJnfCN0ob6zukyyu19h/view?usp=sharing) 
 
 <!--
