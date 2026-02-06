@@ -15,6 +15,15 @@ I find working at the intersection of neuroscience and neural networks, and diss
 
 Link to my [CV](https://drive.google.com/file/d/1Xjc7jJg6YVTaUeJnfCN0ob6zukyyu19h/view?usp=sharing) 
 
+
+Recent News
+======
+- 
+- 
+- 
+
+
+
 <!--
 #Specifically, I find representation learning, representation similarity analysis, image/video quality assessment, etc,. to be interesting. 
 ---
