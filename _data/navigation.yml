@@ -23,8 +23,8 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "CV" # Just include your CV here
-    url: /cv/
+  #- title: "CV" # Just include your CV here
+  #  url: /cv/
 
   - title: "Blogs" # Can write the latest technical papers visually with a lot of images and connecting very much to human visual system or biological neural networks 
     url: /blogs/
