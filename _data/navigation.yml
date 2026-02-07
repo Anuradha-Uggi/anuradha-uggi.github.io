@@ -17,8 +17,8 @@ main:
   - title: "Research" #"Talks" # Can write publications and projects
     url: /research/    
 
-  - title: "Experience" #"Teaching" # Can write industry and academic experience 
-    url: /experience/    
+  #- title: "Experience" #"Teaching" # Can write industry and academic experience 
+  #  url: /experience/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
