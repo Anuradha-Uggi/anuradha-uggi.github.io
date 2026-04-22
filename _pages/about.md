@@ -18,9 +18,7 @@ Link to my [CV](https://drive.google.com/file/d/1Xjc7jJg6YVTaUeJnfCN0ob6zukyyu19
 
 Recent News
 ======
-- 
-- 
-- 
+- Visited Ehime University, Japan, as part of the Sakura Science Exchange program. [Post](https://www.linkedin.com/posts/sandipan-dandapat-90735130_sakurascienceexchangeprogram-jst-ehimeuniversity-ugcPost-7409527755815714817-0_Rs?utm_source=share&utm_medium=member_desktop&rcm=ACoAACFdKbsBYVzQP8uAiLdC5fu2ePeBbzK85U4)
 
 
 
