@@ -13,7 +13,7 @@ My broader interests include image processing, computer vision, machine learning
 
 I find working at the intersection of neuroscience and neural networks, and dissecting and reasoning about DL models, intriguing
 
-Link to my [CV](https://drive.google.com/file/d/1Xjc7jJg6YVTaUeJnfCN0ob6zukyyu19h/view?usp=sharing) 
+Link to my [CV](https://drive.google.com/file/d/1Xjc7jJg6YVTaUeJnfCN0ob6zukyyu19h/view?usp=sharing) (Might be not updated)
 
 
 Recent News
